@@ -1,1 +1,1 @@
-ascendhub/mindie:2.0.RC2-300I-Duo-py311-openeuler24.03-lts
+mysql:8.0
